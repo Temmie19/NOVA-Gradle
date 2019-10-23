@@ -1,4 +1,4 @@
-apply from: "https://raw.githubusercontent.com/NOVA-Team/NOVA-Gradle/master/shared-scripts/common.gradle"
+apply from: "https://raw.githubusercontent.com/Temmie19/NOVA-Gradle/master/shared-scripts/common.gradle"
 
 apply plugin: 'java'
 apply plugin: 'java-library'
